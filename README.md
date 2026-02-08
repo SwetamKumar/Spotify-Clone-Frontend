@@ -27,7 +27,7 @@ It is built strictly for **educational and learning purposes**.
 
 🚀 **Deployed using GitHub Pages:**  
 
-> Replace with your actual deployment link.
+https://swetamkumar.github.io/Spotify-Clone-Frontend/
 
 
 ## ✨ Features
@@ -62,15 +62,19 @@ Follow these simple steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/spotify-clone.git
+   git clone https://github.com/SwetamKumar/spotify-clone.git
    
 2 **Navigate to the project folder**
    cd spotify-clone
    
 3 **Open index.html**
-   Double-click the file
-   OR
-  Use Live Server in VS Code for better experience
+
+     Double-click the file
+   
+     OR
+   
+    Use Live Server in VS Code for better experience
+  
   ✅ No installation or dependencies required.
   
 ## 🚀 Future Enhancements
