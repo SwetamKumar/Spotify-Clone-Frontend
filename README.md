@@ -65,6 +65,7 @@ Follow these simple steps:
    git clone https://github.com/SwetamKumar/spotify-clone.git
    
 2 **Navigate to the project folder**
+
    cd spotify-clone
    
 3 **Open index.html**
