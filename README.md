@@ -66,7 +66,7 @@ Follow these simple steps:
    
 2 **Navigate to the project folder**
 
-   cd spotify-clone
+     cd spotify-clone
    
 3 **Open index.html**
 
